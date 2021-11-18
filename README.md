@@ -35,6 +35,7 @@
    ![image](https://user-images.githubusercontent.com/90569141/142401303-8343b89b-33af-460b-9c73-fb81f8849e0e.png)
    
    в. Падающий камень 
+   
    ![image](https://user-images.githubusercontent.com/90569141/142401481-53bfe494-6820-42d9-a3a2-83bcb75c110c.png)
    
 4. Скрипты отвечающие за бонусы: 
@@ -46,7 +47,8 @@
    ![image](https://user-images.githubusercontent.com/90569141/142402001-98f3740b-e00f-4b74-af21-a10be03950bc.png)
    
 5. Скрипт финиша - когда игрок пересекает его уровень завершается 
-   ![image](https://user-images.githubusercontent.com/90569141/142402156-f24df8cc-a8e1-4e24-b885-8d920a337d38.png)
+
+![image](https://user-images.githubusercontent.com/90569141/142402156-f24df8cc-a8e1-4e24-b885-8d920a337d38.png)
    
    
 
