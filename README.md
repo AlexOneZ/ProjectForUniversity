@@ -4,6 +4,7 @@
  
  Код игры написан на языке C#. С помощью него реалищованы следующие объекты:
  1. 2д персонаж:
+ 
     ![image](https://user-images.githubusercontent.com/90569141/142402456-8b5d52d9-db8d-4e9e-9f94-dab57916e002.png)
 
  2. Враги:
@@ -41,7 +42,9 @@
    ![image](https://user-images.githubusercontent.com/90569141/142401718-c8cd9550-8cc1-4963-8d37-0726690ff62c.png)
    
    б. Фрукты - дают бонусы игроку (добавляют время, активирую щит, добавляют жизни). Выпадают из бонусных коробок;
+   
    ![image](https://user-images.githubusercontent.com/90569141/142401912-73131f0f-3e66-4a9a-b7ff-b0ec5dad3d7c.png)
+   
    ![image](https://user-images.githubusercontent.com/90569141/142402001-98f3740b-e00f-4b74-af21-a10be03950bc.png)
    
 5.Финиш 
