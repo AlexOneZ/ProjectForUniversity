@@ -20,7 +20,9 @@
     ![image](https://user-images.githubusercontent.com/90569141/142400392-7d30b49b-84e2-4846-a19b-14579ce052b4.png)
     
     г. Неподвижный (черепаха) - стоит на месте, переодически сменяя состояние с обычном на атакующее; 
+    
     ![image](https://user-images.githubusercontent.com/90569141/142400120-c6970fa6-dcf2-4eff-8cf1-fe2a76291dda.png)
+    
     ![image](https://user-images.githubusercontent.com/90569141/142400282-fc12e173-d4b4-400e-b58f-3785adf7ca03.png)
     
     д. Клонирующийся (камень) - Оставляет после себя меньшую копию;
