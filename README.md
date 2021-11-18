@@ -11,12 +11,15 @@
 
  2. Враги:
     а. Обычный (слайм) - передвигается влево вправо, не может атаковать;
+    
     ![image](https://user-images.githubusercontent.com/90569141/142400499-a7dec244-4cc7-4f20-bc76-46ca5c7f04aa.png)
     
     б. Стреляющий (растение) - стоит на месте, поворачивается в сторону игрока и стреляет;
+    
     ![image](https://user-images.githubusercontent.com/90569141/142400458-c55372dd-97b7-4b46-8237-63dd4ded3b4b.png)
     
     в. Летающий (птица) - передвигается по заданным точкам;
+    
     ![image](https://user-images.githubusercontent.com/90569141/142400392-7d30b49b-84e2-4846-a19b-14579ce052b4.png)
     
     г. Неподвижный (черепаха) - стоит на месте, переодически сменяя состояние с обычном на атакующее; 
@@ -26,15 +29,18 @@
     ![image](https://user-images.githubusercontent.com/90569141/142400282-fc12e173-d4b4-400e-b58f-3785adf7ca03.png)
     
     д. Клонирующийся (камень) - Оставляет после себя меньшую копию;
+    
     ![image](https://user-images.githubusercontent.com/90569141/142400793-6c38aea7-b96a-4dab-a0c0-93eac18d79ab.png)
     ![image](https://user-images.githubusercontent.com/90569141/142400825-a201c7a3-bb1b-4850-9e5d-a5a3b8ad91e0.png)
     ![image](https://user-images.githubusercontent.com/90569141/142400876-7ec32b5d-699c-4ae3-97a2-54daba167635.png)
     
 3. Ловушки:
    а. Передвигающаяся пила; 
+   
    ![image](https://user-images.githubusercontent.com/90569141/142401158-63fb097a-f041-4a06-afd4-4fbedfcc85a7.png)
    
    б. Палица - наклоняется в разные стороны по заданному углу;
+   
    ![image](https://user-images.githubusercontent.com/90569141/142401303-8343b89b-33af-460b-9c73-fb81f8849e0e.png)
    
    в. Падающий камень; 
@@ -43,6 +49,7 @@
    
 4. Бонусы: 
    а. Фрукты - начилсяют очки игроку; 
+   
    ![image](https://user-images.githubusercontent.com/90569141/142401718-c8cd9550-8cc1-4963-8d37-0726690ff62c.png)
    
    б. Фрукты - дают бонусы игроку (добавляют время, активирую щит, добавляют жизни). Выпадают из бонусных коробок;
@@ -55,7 +62,8 @@
 
 ![image](https://user-images.githubusercontent.com/90569141/142402156-f24df8cc-a8e1-4e24-b885-8d920a337d38.png)
 
-6. Пользовательский интерфейс 
+6. Пользовательский интерфейс
+ 
    ![image](https://user-images.githubusercontent.com/90569141/142403622-654782bd-43b2-46c0-8c4e-5a68f5a06db6.png)
    ![image](https://user-images.githubusercontent.com/90569141/142403672-1e4d6b4d-bc8b-4ed1-9aa5-bae290b9f3b6.png)
    ![image](https://user-images.githubusercontent.com/90569141/142403711-e939902e-fcc0-451a-b01a-f1f66e21e10b.png)
